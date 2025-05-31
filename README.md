@@ -30,6 +30,8 @@ accelerate launch train.py --batch_size 128  --epochs 2000 --feature_type jukebo
 to train the model with the settings from the paper. The training will log progress to `wandb` and intermittently produce sample outputs to visualize learning.
 
 ## Testing and  Evaluation
+Download the long music from [Google Drive](https://drive.google.com/file/d/1d2sqwQfW3f4XcNyYx3oWXdDQphrhfokj/view?usp=drive_link).
+
 Evaluate your model's outputs with the Beat Align Score, PFC, FID, Diversity score proposed in the paper:
 1. Generate ~1k samples, saving the joint positions with the `--save_motions` argument
 2. Run the evaluation script
