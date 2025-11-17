@@ -6,9 +6,9 @@
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
 
-<iframe width="300" height="200" src="https://www.youtube.com/Gx7xjw0EjYg" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="200" src="https://www.youtube.com/watch?v=Gx7xjw0EjYg" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="300" height="200" src="https://www.youtube.com/bqt8ADqTHiM" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="200" src="https://www.youtube.com/watch?v=bqt8ADqTHiM" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
