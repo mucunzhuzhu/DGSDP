@@ -5,12 +5,12 @@
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
 
 <video width="300" controls>
-  <source src="video/dance_generation.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/mucunzhuzhu/DGSDP/main/video/dance_generation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="300" controls>
-  <source src="video/long_term_dance_generation.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/mucunzhuzhu/DGSDP/main/video/long_term_dance_generation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
