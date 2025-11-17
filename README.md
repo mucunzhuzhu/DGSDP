@@ -2,19 +2,16 @@
 **[Controllable Dance Generation with Style-Guided Motion Diffusion](https://arxiv.org/abs/2406.07871)**, [Arxiv](https://arxiv.org/abs/2406.07871) <br>
 **[Flexible Music-Conditioned Dance Generation with Style Description Prompts](https://arxiv.org/abs/2406.07871v1)**
 
+### Demo Videos
+
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
 
-<video width="300" controls>
-  <source src="https://raw.githubusercontent.com/mucunzhuzhu/DGSDP/main/video/dance_generation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="300" height="200" src="https://www.youtube.com/Gx7xjw0EjYg" frameborder="0" allowfullscreen></iframe>
 
-<video width="300" controls>
-  <source src="https://raw.githubusercontent.com/mucunzhuzhu/DGSDP/main/video/long_term_dance_generation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="300" height="200" src="https://www.youtube.com/bqt8ADqTHiM" frameborder="0" allowfullscreen></iframe>
 
 </div>
+
 
 *Abstract: Dance plays an important role as an artistic form and expression in human culture, yet the creation of dance remains a challenging task. Most dance generation methods primarily rely solely on music, seldom taking into consideration intrinsic attributes such as music style or genre.  In this work, we introduce Flexible Dance Generation with Style Description Prompts (DGSDP), a diffusion-based framework for suitable for diversified tasks of dance generation by fully leveraging the semantics of music style. The core component of this framework is Music-Conditioned Style-Aware Diffusion (MCSAD), which comprises a Transformer-based network and a music Style Modulation module. The MCSAD seemly integrates music conditions and style description prompts into the dance generation framework, ensuring that generated dances are consistent with the music content and style. To facilitate flexible dance generation and accommodate different tasks, a spatial-temporal masking strategy is effectively applied in the backward diffusion process. The proposed framework successfully generates realistic dance sequences that are accurately aligned with music for a variety of tasks such as long-term generation, dance in-betweening, dance inpainting, and etc. We hope that this work has the potential to inspire dance generation and creation, with promising applications in entertainment, art, and education.*
 
