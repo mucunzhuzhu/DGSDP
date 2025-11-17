@@ -50,7 +50,7 @@ python eval/metrics_diveristy.py
 ```
 @misc{wang2025controllabledancegenerationstyleguided,
       title={Controllable Dance Generation with Style-Guided Motion Diffusion}, 
-      author={Hongsong Wang and Ying Zhu and Yang Zhang and Junbo Wang and Xin Geng and Liang Wang},
+      author={Hongsong Wang and Ying Zhu and Xin Geng and Liang Wang},
       year={2025},
       eprint={2406.07871},
       archivePrefix={arXiv},
