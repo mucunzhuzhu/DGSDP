@@ -64,7 +64,7 @@ python eval/metrics_diveristy.py
 ## Citation
 ```
 
-@article{wang2026controllabledancegenerationstyleguided,
+@article{wang2026controllable,
 	title={Controllable Dance Generation with Style-Guided Motion Diffusion}, 
 	author={Hongsong Wang and Ying Zhu and Xin Geng and Liang Wang},
 	year={2026},
