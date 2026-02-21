@@ -63,20 +63,12 @@ python eval/metrics_diveristy.py
 
 ## Citation
 ```
-@misc{wang2025controllabledancegenerationstyleguided,
-      title={Controllable Dance Generation with Style-Guided Motion Diffusion}, 
-      author={Hongsong Wang and Ying Zhu and Xin Geng and Liang Wang},
-      year={2025},
-      eprint={2406.07871},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2406.07871}, 
-}
 
-@article{wang2024flexible,
-  title={Flexible Music-Conditioned Dance Generation with Style Description Prompts},
-  author={Wang, Hongsong and Zhu, Yin and Geng, Xin},
-  journal={arXiv preprint arXiv:2406.07871},
-  year={2024}
+@article{wang2026controllabledancegenerationstyleguided,
+	title={Controllable Dance Generation with Style-Guided Motion Diffusion}, 
+	author={Hongsong Wang and Ying Zhu and Xin Geng and Liang Wang},
+	year={2026},
+	journal={Machine Intelligence Research},
+	doi={10.1007/s11633-026-1641-1}, 
 }
 ```
